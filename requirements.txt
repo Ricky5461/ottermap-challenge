@@ -1,0 +1,8 @@
+torch
+segmentation-models-pytorch
+geopandas
+rasterio
+numpy
+opencv-python
+matplotlib
+albumentations  
